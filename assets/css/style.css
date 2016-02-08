@@ -343,7 +343,7 @@ label {
   width: 100%;
   top: 0;
   position: fixed;
-  background: url('http://www.spiretech.net/~vready/lastinglight/assets/images/lastinglight/crater-lake.jpg') center center no-repeat; 
+  background: url('http://lastinglight.photo/assets/images/lastinglight/crater-lake.jpg') center center no-repeat; 
   background-size: cover;
   z-index: -100;
 }
